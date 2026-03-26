@@ -1,0 +1,7 @@
+{
+  "entry_threshold": 0.15,
+  "exit_threshold": 0.45,
+  "max_position_usd": 2.0,
+  "locations": "NYC,Chicago,Seattle,Atlanta,Dallas,Miami",
+  "max_trades_per_run": 5
+}
