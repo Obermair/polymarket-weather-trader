@@ -31,6 +31,6 @@ docker compose logs -f weather-trader
 docker compose down
 ```
 
-The container continuously runs live scans using:
-- `skills/polymarket-weather-trader/scripts/live_loop.sh`
+The container continuously runs live scans internally with:
 - `skills/polymarket-weather-trader/weather_trader.py --live`
+- sleep interval from `INTERVAL_SECONDS`

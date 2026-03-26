@@ -8,4 +8,3 @@ services:
     environment:
       SIMMER_API_KEY: ${SIMMER_API_KEY}
       INTERVAL_SECONDS: ${INTERVAL_SECONDS:-60}
-    command: ["/app/skills/polymarket-weather-trader/scripts/live_loop.sh"]
