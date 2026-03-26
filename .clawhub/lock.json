@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "polymarket-weather-trader": {
+      "version": "1.15.1",
+      "installedAt": 1774425577233
+    },
+    "simmer": {
+      "version": "1.20.0",
+      "installedAt": 1774425877874
+    }
+  }
+}
